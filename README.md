@@ -5,10 +5,10 @@ The code performs the calculation of the mean and standard deviation of the azim
 
 Input files must contain paleocurrent azimuths, in the form of an excel file. The first row contains headings (paleocurrent type, such as flutes, grooves,...):
 
-| heading1 |  heading2 |  heading3|
+| grooves |  foresets |  flutes|  etc
 
-|value1  |    value1  |  value1|
+|azimuth1  |    azimuth1  |  azimuth1|
 
-|value2  |    value2  |  value2|
+|azimuth2  |    azimuth2  |  azimuth2|
 
-|...     |    ...   |    ...
+|...     |    ...   |    ...!
